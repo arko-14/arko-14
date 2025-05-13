@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)](https://arko-14.io)
+[![MasterHead](https://storrs.io/content/images/2021/08/Screen-Shot-2021-08-07-at-7.51.37-AM.png)](https://arko-14.io)
 <h1 align="center">Hi 👋, I'm Sandipan Paul</h1>
 <h3 align="center">A passionate electrical and electronics engineering student and a coding enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
