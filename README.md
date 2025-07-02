@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arko-14&label=Profile%20views&color=0e75b6&style=flat" alt="arko-14" /> </p>
 
-- 🔭 I’m currently working on **ML Models**
+- 🔭 I’m currently working on **RAG pipelines and NLP stuff**
 
-- 🌱 I’m currently learning **C++ and basics of ML **
+- 🌱 I’m currently learning **MLOps and FastAPI **
 
-- 💬 Ask me about **Python,C,C++**
+- 💬 Ask me about **Python,ML,DL**
 
 - 📫 How to reach me **psandipan20@gmail.com**
 
